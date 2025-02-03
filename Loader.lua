@@ -1,5 +1,5 @@
-local key_user_map = {
-    Venture = "Milton.XD", 
-    Alpha = "Alice",  
-    Beta = "Bob",  
+Key_user_map = {
+    ["Venture"] = "Milton.X",
+    ["Alpha"] = "Alice",
+    ["Beta"] = "Bob"
 }
