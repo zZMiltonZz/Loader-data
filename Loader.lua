@@ -1,5 +1,7 @@
 key_user_map = {
-    Venture = "Milton.XD",
-    Alpha   = "B1GB0Y",
-    Beta    = "Bob"
+    LiveKey1 = { user = "B1GB0Y", tier = "LIVE" },
+    BetaKey1 = { user = "Alice", tier = "BETA" },
+    VipKey1 = { user = "Bob", tier = "VIP" },
+    SecretKey1 = { user = "Milton.XD", tier = "SECRET" },
+    LiveKey2 = { user = "John", tier = "LIVE" }
 }
